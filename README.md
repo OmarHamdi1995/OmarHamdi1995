@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Omar
+### a Data Scientist who used to work in Marketing
 
 <!--
 **OmarHamdi1995/OmarHamdi1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
